@@ -33,7 +33,11 @@ How to work calc
         pmt = 
         FV = 0 when not specified 
 
-- loan ammoritaztion 
+- loan ammoritaztion
 
+-------------------------------------------
+Formulas 
+
+Owners Equity = 
 
 
